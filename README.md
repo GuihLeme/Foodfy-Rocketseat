@@ -1,7 +1,6 @@
 # Foodfy-Rocketseat
 
-Resolução do desafio Foodfy proposto no bootcamp da Rocketseat ministrado por @MaykBrito.
-Este projeto se trata da resolução inicial do problema, encerrado no dia 28/04.
+Resolução do desafio Foodfy proposto no bootcamp da Rocketseat ministrado por @MaykBrito, encerrado em 28/04.
 
 Recursos utilizados:
 
