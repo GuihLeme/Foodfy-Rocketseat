@@ -11,3 +11,4 @@ Recursos utilizados:
 –> Node.js; <br>
 –> Nunjucks; <br>
 
+!(site operante)[https://github.com/GuihLeme/Foodfy-Rocketseat/blob/master/Linkedin-Foodfy.gif]
