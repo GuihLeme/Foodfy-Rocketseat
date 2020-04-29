@@ -1,0 +1,28 @@
+{% extends "layout.njk"%}
+
+{% block header %}
+<a href="/about">Sobre</a>
+<a href="/recipes" id="recipes">Receitas</a>
+{% endblock %}
+
+{% block content %}
+<div class="all-recipes">
+    <div class="recipes">
+        {% for recipe in recipes %}
+        <div class="recipe" id="{{ loop.index -1 }}">
+            <img src="{{recipe.image}}" alt="imagem de {{recipe.image}}">
+            <p class="nome-receita">{{recipe.title}}</p>
+            <p class="autor">por {{recipe.author}}</p>
+        </div>
+        {% endfor %}   
+        {% for recipe in recipes %}
+        <div class="recipe" id="{{ loop.index -1 }}">
+            <img src="{{recipe.image}}" alt="imagem de {{recipe.image}}">
+            <p class="nome-receita">{{recipe.title}}</p>
+            <p class="autor">por {{recipe.author}}</p>
+        </div>
+        {% endfor %}       
+        
+    </div>
+</div> 
+{% endblock %}
