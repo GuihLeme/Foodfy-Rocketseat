@@ -1,6 +1,7 @@
 # Foodfy-Rocketseat
 
-Resolução do desafio Foodfy proposto no curso Launchbase da Rocketseat ministrado por <a href="https://github.com/maykbrito">Mayk Brito</a>. Projeto encerrado em 28/04.
+Resolução da primeira parte do desafio Foodfy proposto no curso Launchbase da Rocketseat ministrado por <a href="https://github.com/maykbrito">Mayk Brito</a>. 
+O Foodfy é uma plataforma onde usuários podem pesquisar e adicionar diferentes receitas. 
 
 Recursos utilizados:
 
